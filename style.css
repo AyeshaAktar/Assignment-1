@@ -2,6 +2,15 @@ body{
     font-family: 'Noto Sans TC', sans-serif;
     margin: 0;
 }
+.food-network{
+    background-image: url(images/cover1.jpeg);
+   padding: 80px;
+   margin-bottom: 40px;
+}
+.name-text{
+    text-align:center ;
+    font-size: 100px
+}
 .top-nav{
     display: flex;
 }
@@ -28,11 +37,10 @@ h1{
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 .half-width p{
     padding: 30px 0;
-    /* margin-bottom: 50px; */
 }
 .person-image{
     width: 300px !important;
@@ -62,7 +70,7 @@ h1{
     margin-right: 5%;
     box-shadow: 5px 5px 5px 5px gray;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .recipie-title img{
     width: 100%;
@@ -74,4 +82,7 @@ h1{
     padding: 80px;
     text-align: center;
     color: white;
+}
+.home-button{
+    text-decoration: none;
 }
