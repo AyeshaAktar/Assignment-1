@@ -68,6 +68,9 @@ h1{
     padding: 0 100px ;
     
 }
+.text-line{
+    padding-top: 10%;
+}
 .recipies{
     text-align: center;
     margin-bottom: 50px;
@@ -104,7 +107,6 @@ h1{
 }
 .reating-sit{
     margin-left: 10%;
-   
 }
 
 .footer{
@@ -113,3 +115,4 @@ h1{
     text-align: center;
     color: white;
 }
+
