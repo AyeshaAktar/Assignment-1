@@ -76,7 +76,7 @@ h1{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow: 5px 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.836);
     padding: 10px;
     border-radius: 20px;
 }
@@ -91,6 +91,22 @@ h1{
 .peragraph-style{
     padding-right: 30% !important;
 }
+
+.reating{
+    display: flex;
+    box-shadow:3px 3px 3px 3px rgba(128, 128, 128, 0.61);
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+   
+}
+.reating-sit{
+    margin-left: 10%;
+   
+}
+
 .footer{
     background-color: black;
     padding: 60px;
